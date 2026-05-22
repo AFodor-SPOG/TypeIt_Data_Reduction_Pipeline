@@ -1,0 +1,31 @@
+Path:/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Galaxy Name:J0800+3743_major
+Galaxy Name 2:J0800+3743
+G File Name:J0800+3743_major
+Standard Star Name:HR3454
+Observation Date:2-16
+Observation Date Link:Feb 16 2020
+Galaxy RA:120.1986
+Galaxy Dec:37.7287
+Galaxy Redshift Setting:A
+Bias File Numbers Used:
+[16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+Dome Flat File Numbers Used:
+[26, 27, 28, 29, 30]
+Arc Frame File Numbers Used:
+[11, 12, 13, 14, 15]
+Number of Galaxy frames median combined:
+4
+Galaxy Frame File Numbers:
+[37, 38, 39, 40]
+Galaxy Frame Exposure Time:
+[900, 900, 900, 900]
+Number of Standard Star frames to be median combined:
+2
+Standard Star Frame File Numbers:
+[35, 36]
+Standard Star Frame Exposure Time:
+[1, 1]
+Standard Star Literature Value Txt File Used:HR3454.txt
+Target Row:141
+141

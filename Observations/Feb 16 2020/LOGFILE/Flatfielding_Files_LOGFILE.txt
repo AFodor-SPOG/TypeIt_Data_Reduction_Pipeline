@@ -1,0 +1,6 @@
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/A/Dome_Flat_1.fits/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/A/Dome_Flat_2.fits/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/A/Dome_Flat_3.fits/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/A/Dome_Flat_4.fits/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/
+Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/A/Dome_Flat_5.fits

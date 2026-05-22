@@ -1,0 +1,3 @@
+Star File Numbers:
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/HR_3454__standard_File_36.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/J0800+3743_Major_File_37.fits

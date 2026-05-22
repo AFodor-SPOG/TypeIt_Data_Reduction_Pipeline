@@ -1,0 +1,5 @@
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/Unnamed_File_12.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/Unnamed_File_13.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/Unnamed_File_14.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/Unnamed_File_15.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/Unnamed_File_16.fits

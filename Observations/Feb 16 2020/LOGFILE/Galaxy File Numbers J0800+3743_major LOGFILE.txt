@@ -1,0 +1,5 @@
+Galaxy File Numbers:
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/J0800+3743_Major_File_38.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/J0800+3743_Major_File_39.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/J0800+3743_Major_File_40.fits
+/Users/spogs/Documents/TypeIt_Data_Reduction_Pipeline/Observations/Feb 16 2020/Trimmed Data/Bias Subtracted/J0800+3743_Minor_File_41.fits
